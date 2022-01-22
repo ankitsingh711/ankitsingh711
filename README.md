@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh-422980227)](https://www.linkedin.com/in/ankit-singh-422980227/)
 [![Website Badge](https://img.shields.io/badge/Quora-Ankit-green)](https://https://www.quora.com/profile/Ankit-Singh-14104)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ankit-yellow)](https://stackoverflow.com/users/17924891/ankit-singh-)
+[![Twitter Badges](https://img.shields.io/badges/Twitter-AnkitSingh-orange)](https://twitter.com/ItsAnkit5ingh)
 
 I'm
 Full Stack Solution Architect
