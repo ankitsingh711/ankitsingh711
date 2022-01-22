@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Its Ankit Singh-red)](https://www.youtube.com/itsankitsingh)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/ankit-singh-422980227/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Its Ankit-red)](https://www.youtube.com/itsankitsingh)
+[![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/ankit-singh-422980227/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Ankit-green)](https://www.ankit)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://https://stackoverflow.com/users/17924891/ankit-singh?tab=profile-)
 
