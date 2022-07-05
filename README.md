@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://https://www.quora.com/profile/Ankit-Singh-14104)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ankit-yellow)](https://stackoverflow.com/users/17924891/ankit-singh-)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-AnkitSingh-blue)](https://twitter.com/ItsAnkit5ingh)
-[![Website Badge](https://img.shields.io/badge/Website-AnkitSingh-green)](https://ankitsingh711.github.io/myprofile/)
+[![Website Badge](https://img.shields.io/badge/Website-AnkitSingh-green)](https://itsankitsingh.netlify.app/)
 
 I'm
 Full Stack Solution Architect
