@@ -28,6 +28,9 @@ The crossover between design and programming has always been of interest to me, 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsingh711&show_icons=true&locale=en" alt="ankitsingh711"></img></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh711&show_icons=true&locale=en&layout=compact"></img></p>
+
+
 </br>
 
 Languages and Tools: 
