@@ -23,9 +23,10 @@ The crossover between design and programming has always been of interest to me, 
 
 </br>
 </br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitsingh711&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-
+</br>
 
 Languages and Tools: 
 
