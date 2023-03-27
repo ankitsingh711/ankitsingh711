@@ -1,10 +1,4 @@
 ### Hi Developers 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-ItsAnkitSingh-red)](https://www.youtube.com/itsankitsingh)
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh-422980227)](https://www.linkedin.com/in/ankit-singh-422980227/)
-<!-- [![Quora Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://www.quora.com/profile/Ankit-Singh-14104) -->
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Ankit-yellow)](https://stackoverflow.com/users/17924891/ankit-singh-) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-AnkitSingh-blue)](https://twitter.com/ItsAnkit5ingh) -->
 [![Website Badge](https://img.shields.io/badge/Website-AnkitSingh-gray)](https://ankitsingh711.github.io/)
 I'm
 Full Stack Solution Architect.
