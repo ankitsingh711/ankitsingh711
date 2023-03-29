@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Website Badge](https://img.shields.io/badge/Porfolio-Ankit-Singh-red)](https://ankitsingh711.github.io/)
+[![Portofolio Badge](https://img.shields.io/badge/Porfolio-Ankit-Singh-red)](https://ankitsingh711.github.io/)
 
 I'm
 Full Stack Solution Architect.
