@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh2127/)](https://www.linkedin.com/in/ankit-singh2127/)
 [![Portofolio Badge](https://img.shields.io/badge/Porfolio-Ankit-orange)](https://ankitsingh711.github.io/)
-[![Stackoverflow Badge](https://img.shields.io/badge/Porfolio-Ankit-red)](https://stackoverflow.com/users/17924891/ankit-singh?tab=profile)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-Ankit-red)](https://stackoverflow.com/users/17924891/ankit-singh?tab=profile)
 
 I'm
 Full Stack Solution Architect.
