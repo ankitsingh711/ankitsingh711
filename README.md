@@ -9,7 +9,7 @@
 
 I'm
 Full Stack Solution Architect.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql, Postgresql). Having cloud knowledge of AWS( Lambda, EC2, SES, S3, and etc. ) 
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high-profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB, Mysql, Postgresql). Having cloud knowledge of AWS( Lambda, EC2, SES, S3, Cloudwatch etc. ) 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ankitsingh711/count.svg)
@@ -42,8 +42,8 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working at ZineIQ Technologies Private Limited.
+- 🌱 I’m currently learning Prompt Engineering.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
