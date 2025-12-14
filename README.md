@@ -20,7 +20,7 @@
 
 I'm a **Full Stack Solution Architect** passionate about building scalable, high-performance applications. The crossover between design and programming has always fascinated me, and I've been fortunate to collaborate with talented teams on numerous high-profile projects.
 
-- 🔭 Currently working at **ZineIQ Technologies Private Limited**
+- 🔭 Currently working at **Tuna Software Solutions Private Limted**
 - 🌱 Learning **Prompt Engineering** and exploring **AI/ML integration**
 - 💡 Passionate about **clean code**, **system design**, and **cloud architecture**
 - 🎯 Focus on creating seamless user experiences with robust backend systems
@@ -58,18 +58,18 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitsingh711&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitsingh711&theme=tokyonight" />
 </div>
+
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh711&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -77,9 +77,8 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitsingh711&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=ankitsingh711&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -91,14 +90,6 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh711&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🤖 Exploring **AI/ML** integration in web applications
@@ -106,18 +97,6 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 - 🔐 Mastering **Microservices** and **System Design**
 - 📚 Contributing to **Open Source** projects
 - 🎓 Mentoring aspiring developers
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-singh2127/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://www.ankit-singh.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
-</div>
 
 ---
 
