@@ -75,13 +75,6 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ankitsingh711&theme=tokyonight&hide_border=true)
-
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
