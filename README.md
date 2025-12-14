@@ -10,7 +10,7 @@
 [![Quora Badge](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Ankit-Singh-17077)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/itsankitsingh)
 
-![Visitor Count](https://profile-counter.glitch.me/ankitsingh711/count.svg)
+<img src="https://komarev.com/ghpvc/?username=ankitsingh711&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -24,7 +24,7 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 - 🌱 Learning **Prompt Engineering** and exploring **AI/ML integration**
 - 💡 Passionate about **clean code**, **system design**, and **cloud architecture**
 - 🎯 Focus on creating seamless user experiences with robust backend systems
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **developerankit2127@gmail.com**
 
 ---
 
@@ -122,9 +122,6 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsingh711&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
   ### ⚡ Fun Fact: I believe great code is like poetry - simple, elegant, and powerful!
-  
   **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 </div>
