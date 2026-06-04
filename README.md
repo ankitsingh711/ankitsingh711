@@ -31,8 +31,17 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 ## 💼 Technical Expertise
 
 ### AI/ML Engineering
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)](https://www.llamaindex.ai/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge)](https://www.langchain.com/langgraph)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+
+### Vector DB
+[![FAISS](https://img.shields.io/badge/FAISS-003366?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
+[![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![Weaviate](https://img.shields.io/badge/Weaviate-00C4B3?style=for-the-badge&logo=weaviate&logoColor=white)](https://weaviate.io/)
+[![Chroma](https://img.shields.io/badge/Chroma-7B68EE?style=for-the-badge)](https://www.trychroma.com/)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
