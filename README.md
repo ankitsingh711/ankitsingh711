@@ -30,6 +30,10 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ## 💼 Technical Expertise
 
+### AI/ML Engineering
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)](https://www.llamaindex.ai/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge)](https://www.langchain.com/langgraph)
+
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
